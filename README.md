@@ -10,7 +10,7 @@ This sample provides a step-by-step guide on how to deploy a virtual assistant l
 
 This solution has been archived and is no longer actively maintained.
 
-The successor to this solution, which is actively maintained and includes enhanced capabilities, is available at: `https://github.com/Azure-Samples/gen-ai-bot-in-a-box`.
+The successor to this solution, which is actively maintained and includes enhanced capabilities, is available at: [https://github.com/Azure-Samples/gen-ai-bot-in-a-box](https://github.com/Azure-Samples/gen-ai-bot-in-a-box).
 
 The new repository builds upon the foundation of the original Assistants API Bot in-a-box, offering additional features, improved performance, and expanded integration options. It is designed to provide a more robust and flexible framework for developing AI-powered bots using the latest advancements in generative AI and Azure services.
 
